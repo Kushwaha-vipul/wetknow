@@ -29,5 +29,5 @@ app.get("*",(req,res)=>{
 });
 
 app.listen(port,()=>{
-    console.log("Don't worry i am with Mohan!");
+    console.log("server start!");
 });
